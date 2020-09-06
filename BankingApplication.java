@@ -114,7 +114,7 @@ public class BankingApplication {
 
     public static void main(String... args){
 
-        BankAccount account = new BankAccount("mukul","Max123");
+        BankAccount account = new BankAccount("Mukul","123");
         account.showMenu();
 
     }
